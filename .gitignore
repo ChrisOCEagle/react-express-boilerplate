@@ -1,0 +1,7 @@
+# deployment directories
+node_modules
+dist
+# optional NPM cache directory
+.npm
+# MAC
+.DS_Store
